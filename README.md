@@ -1,1 +1,7 @@
-# training
+# README
+
+## Project Summary
+
+## File Structure
+
+## Additional Categories
